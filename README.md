@@ -3,7 +3,7 @@ My referral codes for Meta Quest
 
 - [Device referral code for $30 off a Meta Quest headset](https://www.meta.com/referrals/link/geekraver)
 
-Meta Quest App Referral Codes for 25% off (please open issues if these don't work as I believe Meta now limits them to 3 uses):
+Meta Quest App Referral Codes for 25% off (please [open issues](https://github.com/gramster/MetaQuest/issues/new/choose) if these don't work as I believe Meta now limits them to 3 uses):
 
 - [2MD: VR Football Unleashed](https://www.oculus.com/appreferrals/geekraver/2592096760842149/)
 - [A Fisherman's Tale](https://www.oculus.com/appreferrals/geekraver/2299967930057156/)
