@@ -191,7 +191,7 @@ Meta Quest App Referral Codes for 25% off (please [open issues](https://github.c
 - [Warhammer 40,000: Battle Sister](https://www.oculus.com/appreferrals/geekraver/3231001163584154/)
 - [Warplanes: WW1 Fighters](https://www.oculus.com/appreferrals/geekraver/3922378427824210/)
 - [We Are One](https://www.oculus.com/appreferrals/geekraver/4052099231581371/)
-- [What the Bat)
+- [What the Bat](https://www.oculus.com/appreferrals/geekraver/5251672408247712/)
 - [Windlands 2](https://www.oculus.com/appreferrals/geekraver/5418402731545943/)
 - [Yuki Space Ranger](https://www.oculus.com/appreferrals/geekraver/2886115781495034/)
 - [Yupitergrad](https://www.oculus.com/appreferrals/geekraver/3622969487764448/)
