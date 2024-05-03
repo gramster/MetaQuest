@@ -13,6 +13,7 @@ Meta Quest App Referral Codes for 25% off (please [open issues](https://github.c
 - [Another Fisherman's Tale](https://www.oculus.com/appreferrals/geekraver/4543286815791830/)
 - [Anshar 2 Hyperdrive](https://www.oculus.com/appreferrals/geekraver/4531913893511480/)
 - [Arcade Legend](https://www.oculus.com/appreferrals/geekraver/4290234067753903/)
+- [Arcade Paradise VR](https://www.oculus.com/appreferrals/geekraver/5968301983261530/)
 - [Arcaxer](https://www.oculus.com/appreferrals/geekraver/5396412860376470/)
 - [Arcsmith](https://www.oculus.com/appreferrals/geekraver/2948202345202575/)
 - [Arizona Sunshine](https://www.oculus.com/appreferrals/geekraver/2190353671014400/)
