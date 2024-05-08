@@ -1,9 +1,16 @@
 # MetaQuest
+
 My referral codes for Meta Quest
+
+## $30 off Headsets
 
 - [Device referral code for $30 off a Meta Quest headset](https://www.meta.com/referrals/link/geekraver)
 
-Meta Quest App Referral Codes for 25% off (please [open issues](https://github.com/gramster/MetaQuest/issues/new/choose) if these don't work as I believe Meta now limits them to 3 uses):
+## 25% off Apps
+
+Meta Quest App Referral Codes for 25% off:
+
+Please click here and [open an issue](https://github.com/gramster/MetaQuest/issues/new/choose) if one of these doesn't work as I believe Meta now limits them to 3 uses; that way I can strike them out.
 
 - [2MD: VR Football Unleashed](https://www.oculus.com/appreferrals/geekraver/2592096760842149/)
 - [A Fisherman's Tale](https://www.oculus.com/appreferrals/geekraver/2299967930057156/)
@@ -19,7 +26,7 @@ Meta Quest App Referral Codes for 25% off (please [open issues](https://github.c
 - [Arizona Sunshine](https://www.oculus.com/appreferrals/geekraver/2190353671014400/)
 - [Asgard's Wrath](https://www.oculus.com/appreferrals/geekraver/1180401875303371/)
 - [Asgard's Wrath 2](https://www.oculus.com/appreferrals/geekraver/2603836099654226/)
-- [Assassin's Creed Nexus VR](https://www.oculus.com/appreferrals/geekraver/5812519008825194/)
+- <s>Assassin's Creed Nexus VR</s>
 - [Audio Trip](https://www.oculus.com/appreferrals/geekraver/2484044451715693/)
 - [Bonelab](https://www.oculus.com/appreferrals/geekraver/4215734068529064/)
 - [Brink Traveller](https://www.oculus.com/appreferrals/geekraver/3635172946605196/)
